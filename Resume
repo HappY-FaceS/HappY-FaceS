@@ -1,0 +1,231 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Deedy - One Page Two Column Resume
+% LaTeX Template
+
+
+
+\documentclass[]{deedy-resume-openfont}
+\usepackage{fancyhdr}
+ 
+\pagestyle{fancy}
+\fancyhf{}
+ 
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     LAST UPDATED DATE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     TITLE NAME
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\namesection{Rishav} {Kumar}{ 
+\small +917857813297  $|$ \href{mailto:x@x.com}{\underline{rishavkumarcgc@gmail.com}}
+$|$ {\href{https://www.linkedin.com/in/rishav-kumar-7b12701a1/}{LinkedIn}}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{0.31\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Education} 
+
+\subsection{CHANDIGARH ENGINEERING COLLEGE  (IK Gujral PUNJAB \\TECH. UNIV.)}\\
+\descript{\textbf{B.TECH in ELECTRONICS AND COMMUNICATION}}\\
+\batch{june 2019-Present}\\
+\place{Mohali,Punjab}\\
+\location {CGPA :8.4/10.0 (Till 4th sem)}
+\sectionsep
+
+  \\
+  \\
+\subsection{MOTHER  TERESA \\ VIDYAPEETH}\\
+\BATCH{2017-2019}\\
+\place{Muzaffarpur,Bihar}\\
+\location{Class XII :- PCM(84.6 \%)}
+  \\
+  \\
+\sectionsep
+
+\subsection{ST. JOSEPH'S SR. SEC. SCHOOL}
+\BATCH{2016-2018}\\
+\place{Muzaffarpur,Bihar}\\
+\location{Class X :- 10 Cgpa}
+\sectionsep
+  \\
+  \\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\section{Skills}
+\subsection{Programming}
+\location{languages:}
+\textbullet{} C++ \textbullet{} C \textbullet{} Javascript \\
+\textbullet{}HTML \textbullet{} CSS \textbullet{} git   \\ 
+\location{Frameworks:}
+ \textbullet{} Node.js \textbullet{} React.js  \textbullet{} Express.js \\ \textbullet{} Bootstrap \textbullet{}Mongo DB \\
+ \location {Tools:}
+\textbullet{} Vs code  \textbullet{} Arduino  \textbullet{} Github \\  \textbullet{} MS Office \\
+\location{Familiar:}
+\textbullet{} java \textbullet{} python \textbullet{} Internet of things \\ \textbullet{} Embedded systems    \\
+  \\
+  \\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LINKS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Links} 
+Codeforces:// \href{https://codeforces.com/profile/HappYFaceS}{\bf HappYFaceS} \\
+Codechef:// \href{https://www.codechef.com/users/coeur_brise}{\bf coeur brise} \\
+LinkedIn:// \href{https://www.linkedin.com/in/rishav-kumar-7b12701a1/}{\bf rishav-kumar} \\
+Leetcode:// \href{https://leetcode.com/HappYFaceS/}{\bf HappYFaceS} \\
+Github:// \href{https://github.com/HappY-FaceS}{\bf HappY-FaceS}
+  \\
+    \\
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COURSE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Course}
+
+\sectionsep
+
+
+Data Structures  \\
+Algorithms \\
+Operating Systems \\
+Web Development \\
+Competitive Programming \\
+Microprocessors \\
+Computer Network \\
+
+
+
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN TWO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage} 
+\hfill
+\begin{minipage}[t]{0.63\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     pproject
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{PROJECTs}
+\runsubsection{SHOP KARO }
+\href{https://afternoon-atoll-93127.herokuapp.com/}{\bf Website | } 
+\href{https://github.com/HappY-FaceS/SHOP-KARO}{\bf Source Code } \\
+\begin{tightemize}
+\item Designed and developed a shopping web application with \\ back-end on \textbf {Node.js , Express.js} and \textbf{MongoDB} as database.
+\item Added feature for user to sign-up as customer using \textbf{Json Web Token} (For authentication) , customer can also apply to be seller.
+\item Utilized \textbf {React.js} to have a user friendly front-end , also used \\ \textbf {Redux} to Manage app state.
+\item A seller can add  products and customer can order products by adding in into cart.
+\textbf {React-toastify} to handle success and error messages .
+
+\end{tightemize}
+\sectionsep
+  \\
+   \\
+\runsubsection{REPO SEARCHER }
+\href{https://vigilant-saha-feb2b6.netlify.app/}{\bf Website | } 
+\href{https://github.com/HappY-FaceS/Repo-searcher}{\bf Source Code } \\
+\begin{tightemize}
+\item Developed a web application to search the specific organization's repository , \textbf {HTML , CSS} used as a front-end.
+\item User have to give 3 inputs i.e organization name ,number of top repos and top contributors count , used opensource \textbf{API} of github to fetch the data .
+\item For making calls less and fast, \textbf{pagination} technique have been used.
+\item \textbf {Ajax calls} are used so that page doesn't have to reload again and again which makes it scalable and ready for production.
+
+\end{tightemize}
+\sectionsep
+ \\
+  \\
+\runsubsection{COVID HELPER }
+\href{https://github.com/HappY-FaceS/COVID-HELPER}{\bf Source Code } \\
+\begin{tightemize}
+\item Designed a web application to track the realtime data of covid cases in the world ,  used \textbf {React.js , Charts.js} as front-end.
+\item Developed using a covid19 opensource \textbf{API} to fetch the data related to Infected, Recovered, Deaths, Active cases count in any country around the globe .
+\item Utilized \textbf {Material UI } to have a user friendly front-end .
+
+
+\end{tightemize}
+\sectionsep
+   
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     ACHIEVEMENTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{ACHIEVEMENTS}
+\runsubsection{EXPERT AT CODEFORCES }
+\href{https://codeforces.com/profile/HappYFaceS}{\bf highest rating 1735 |} 
+{Top 0.5\% user}
+\begin{tightemize}
+\item Global rank \textbf{420/15K+ (Top 2\% )} in Round 720 .
+\item Global rank \textbf{564/14K+ (Top 2.5\% )} in Round 733 .
+\item Global rank \textbf{566/15K+ (Top 3\% )} in Round 723 .
+
+
+\end{tightemize}
+\sectionsep
+
+\runsubsection{5 star AT CODECHEF}
+\href{https://www.codechef.com/users/coeur_brise}{\bf highest rating 2079 |} 
+{Top 1.5\% user}
+\begin{tightemize}
+\item Global rank \textbf{9/20K+ (Top 10 )} in April challenge 2021B .
+\item Global rank \textbf{153/5K+ (Top 3\% )} in May lunchtime 2021B .
+\item Global rank \textbf{121/4K+ (Top 3\% )} in April lunchtime 2021B .
+
+
+\end{tightemize}
+\sectionsep
+
+\runsubsection{other achievements }
+\begin{tightemize}
+\item solved \textbf {1000+ problems} on different coding platforms.
+\item Global Rank \textbf {939/40K+ (90/101 points)} in Google codejam \\
+\href{https://drive.google.com/file/d/1UngZYHfvzWSfHKuwpNUw8NCoiG7G-cqQ}{\bf certificate .}
+\item Certified by Google in the fundamental of digital marketing \\
+\href{https://drive.google.com/file/d/1E94j4c9e5FW_CCF6cn-4Ntu2qbOTPHl3}{\bf certificate.}
+\item Software Engineering Virtual Exprience by JPMorgan & chase co.\\ 
+\href{https://drive.google.com/file/d/1BBJDzlsGLkR1LirhEaF-UpspVfPquhJc/view}{\bf certificate.}
+\item Digital batch awarded by Digital Ocean for contributing in Hacktober fest 2020.
+
+
+\end{tightemize}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     PUBLICATIONS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+\end{minipage} 
+\end{document}  \documentclass[]{article}
