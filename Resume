@@ -75,13 +75,13 @@ $|$ {\href{https://www.linkedin.com/in/rishav-kumar-7b12701a1/}{LinkedIn}}
 \subsection{Programming}
 \location{languages:}
 \textbullet{} C++ \textbullet{} C \textbullet{} Javascript \\
-\textbullet{}HTML \textbullet{} CSS \textbullet{} git   \\ 
+\textbullet{}HTML \textbullet{} CSS \textbullet{} Ejs \textbullet{} git   \\ 
 \location{Frameworks:}
- \textbullet{} Node.js \textbullet{} React.js  \textbullet{} Express.js \\ \textbullet{} Bootstrap \textbullet{}Mongo DB \\
+ \textbullet{} Node.js \textbullet{} Mongoose  \textbullet{} Express.js \\ \textbullet{} Bootstrap \textbullet{}Mongo DB \\
  \location {Tools:}
 \textbullet{} Vs code  \textbullet{} Arduino  \textbullet{} Github \\  \textbullet{} MS Office \\
 \location{Familiar:}
-\textbullet{} java \textbullet{} python \textbullet{} Internet of things \\ \textbullet{} Embedded systems    \\
+\textbullet{} java \textbullet{} python \textbullet{} Internet of things \\ \textbullet{} Embedded systems  \textbullet{}React.js  \\
   \\
   \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -111,7 +111,6 @@ Algorithms \\
 Operating Systems \\
 Web Development \\
 Competitive Programming \\
-Microprocessors \\
 Computer Network \\
 
 
@@ -133,15 +132,29 @@ Computer Network \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{PROJECTs}
-\runsubsection{SHOP KARO }
-\href{https://afternoon-atoll-93127.herokuapp.com/}{\bf Website | } 
-\href{https://github.com/HappY-FaceS/SHOP-KARO}{\bf Source Code } \\
+% \runsubsection{SHOP KARO }
+% \href{https://afternoon-atoll-93127.herokuapp.com/}{\bf Website | } 
+% \href{https://github.com/HappY-FaceS/SHOP-KARO}{\bf Source Code } \\
+% \begin{tightemize}
+% \item Designed and developed a shopping web application with \\ back-end on \textbf {Node.js , Express.js} and \textbf{MongoDB} as database.
+% \item Added feature for user to sign-up as customer using \textbf{Json Web Token} (For authentication) , customer can also apply to be seller.
+% \item Utilized \textbf {React.js} to have a user friendly front-end , also used \\ \textbf {Redux} to Manage app state.
+% \item A seller can add  products and customer can order products by adding in into cart.
+% \textbf {React-toastify} to handle success and error messages .
+
+% \end{tightemize}
+% \sectionsep
+
+
+\runsubsection{TECHNOSOFT }
+\href{https://technosoft-by-rishav-kumar.netlify.app/}{\bf Website | } 
+\href{https://github.com/HappY-FaceS/TECHNOSOFT}{\bf Source Code } \\
 \begin{tightemize}
-\item Designed and developed a shopping web application with \\ back-end on \textbf {Node.js , Express.js} and \textbf{MongoDB} as database.
-\item Added feature for user to sign-up as customer using \textbf{Json Web Token} (For authentication) , customer can also apply to be seller.
-\item Utilized \textbf {React.js} to have a user friendly front-end , also used \\ \textbf {Redux} to Manage app state.
-\item A seller can add  products and customer can order products by adding in into cart.
-\textbf {React-toastify} to handle success and error messages .
+\item Designed and developed a web application with  back-end on \textbf {Node.js , Express.js} and \textbf{MongoDB} as database.This project is based on an idea of Women Empowerment in tech.
+\item  Added feature for user to sign-up using \textbf{Passport Middleware}
+(for authentication) , after sign-in user can explore the opportunities in tech. and share their idea for growth.
+\item Utilized \textbf{Mongoose Schema} to Manage app state between database and back-end . 
+\item Used \textbf {EJS,Html and Css} to have a user friendly front-end .
 
 \end{tightemize}
 \sectionsep
@@ -208,13 +221,13 @@ Computer Network \\
 \runsubsection{other achievements }
 \begin{tightemize}
 \item solved \textbf {1000+ problems} on different coding platforms.
-\item Global Rank \textbf {939/40K+ (90/101 points)} in Google codejam \\
+\item Global Rank \textbf {939/40K+ (90/101 points)} in \textbf{ Google codejam } qualification round 
 \href{https://drive.google.com/file/d/1UngZYHfvzWSfHKuwpNUw8NCoiG7G-cqQ}{\bf certificate .}
 \item Certified by Google in the fundamental of digital marketing \\
 \href{https://drive.google.com/file/d/1E94j4c9e5FW_CCF6cn-4Ntu2qbOTPHl3}{\bf certificate.}
 \item Software Engineering Virtual Exprience by JPMorgan & chase co.\\ 
 \href{https://drive.google.com/file/d/1BBJDzlsGLkR1LirhEaF-UpspVfPquhJc/view}{\bf certificate.}
-\item Digital batch awarded by Digital Ocean for contributing in Hacktober fest 2020.
+
 
 
 \end{tightemize}
